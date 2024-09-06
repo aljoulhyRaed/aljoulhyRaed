@@ -29,8 +29,8 @@ I currently lead the IT Department at the Institute of University Technology and
 
 ### 📫 Let's Connect
 - **Email**: [aljoulhiyraed@gmail.com](mailto:aljoulhiyraed@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/raeed0o)
-- **GitHub**: [GitHub Profile](https://github.com/raeed0o)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/raed-aljoulhy)
+- **GitHub**: [GitHub Profile](https://github.com/aljoulhyRaed)
 
 ---
 
