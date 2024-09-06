@@ -3,7 +3,7 @@
 ### 🚀 About Me
 As a seasoned software engineer, I specialize in software requirements analysis and system design, with a strong focus on both mobile and web application development. My proficiency spans across multiple frameworks and languages, including Kotlin, Jetpack Compose, Flutter, Laravel, and Frappe. I’m passionate about integrating innovative technologies and continuously expanding my expertise in DevOps and automation.
 
-I currently lead the IT Department at the Institute of University Technology and Training (IUTT), contributing to innovative technological solutions that drive organizational success.
+I currently lead the IT Department at the International University of Technology Twintech (IUTT), contributing to innovative technological solutions that drive organizational success.
 
 ### 🔧 Technical Skills
 - **Mobile Development**: Flutter, Kotlin, Jetpack Compose, Java
